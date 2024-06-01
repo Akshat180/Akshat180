@@ -17,7 +17,6 @@ Here are some of the tools and technologies that I have used and learned:
 
 - Python
 - SQL
-- MySQL
 - Power Bi
 - Excel
 - Visual Basic
@@ -25,3 +24,4 @@ Here are some of the tools and technologies that I have used and learned:
 - Leaner Regression
 - Logitic Regression
 - Random Forest
+- Canva
