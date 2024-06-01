@@ -12,17 +12,16 @@ I am eager to connect with professionals and organizations that share my enthusi
 - 📫 How to reach me: You can email me at akshatrajawat18@gmail.com.
 - 👯 I’m looking to collaborate on time forcasting models.
 
-<!--
-**Akshat180/Akshat180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀  Some Tools I Have Used and Learned
+Here are some of the tools and technologies that I have used and learned:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- MySQL
+- Power Bi
+- Excel
+- Visual Basic
+- Scikit-Learn
+- Leaner Regression
+- Logitic Regression
+- Random Forest
