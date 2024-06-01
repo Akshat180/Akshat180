@@ -7,10 +7,10 @@ What excites me most about AI and machine learning is their immense potential to
 
 I am eager to connect with professionals and organizations that share my enthusiasm for AI and machine learning, and I look forward to contributing to impactful projects that make a positive difference.
 
-🔭 I’m currently working on some data analyzing and prediction model projects.
-🌱 I’m currently learning more about Machine Learning, Deep Learning, Natural Language Processing and ETL and Data Pipelines with Shell, Airflow and Kafka From DeepLearning.AI and Coursera.
-📫 How to reach me: You can email me at akshatrajawat18@gmail.com.
-👯 I’m looking to collaborate on time forcasting models.
+- 🔭 I’m currently working on some data analyzing and prediction model projects.
+- 🌱 I’m currently learning more about Machine Learning, Deep Learning, Natural Language Processing and ETL and Data Pipelines with Shell, Airflow and Kafka From DeepLearning.AI and Coursera.
+- 📫 How to reach me: You can email me at akshatrajawat18@gmail.com.
+- 👯 I’m looking to collaborate on time forcasting models.
 
 <!--
 **Akshat180/Akshat180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
